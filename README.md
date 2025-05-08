@@ -15,7 +15,7 @@ Bu proje, kullanıcıların satır satır sayılar ve temel aritmetik operatörl
 ## Ekran Görüntüsü
 
 Projeden bir ekran görüntüsü:
-`![Sonsuz Hesap Makinesi Ekran Görüntüsü](./screenshot.png)`
+![Sonsuz Hesap Makinesi Ekran Görüntüsü](./screenshot.png)
 
 ## Kullanılan Teknolojiler
 
@@ -31,8 +31,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 
 1.  **Repoyu Klonlayın:**
     ```bash
-    git clone [https://github.com/AhmetDemiroglu/simple_calculator.git](https://github.com/AhmetDemiroglu/simple_calculator.git)
-    ```
+git clone [https://github.com/AhmetDemiroglu/simple_calculator.git](https://github.com/AhmetDemiroglu/simple_calculator.git)
     
 2.  **Proje Dizinine Gidin:**
     ```bash
