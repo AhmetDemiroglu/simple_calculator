@@ -14,7 +14,6 @@ Bu proje, kullanıcıların satır satır sayılar ve temel aritmetik operatörl
 
 ## Ekran Görüntüsü
 
-Projeden bir ekran görüntüsü:
 ![](./screenshot.png)
 
 ## Kullanılan Teknolojiler
