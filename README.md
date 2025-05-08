@@ -31,8 +31,8 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 
 1.  **Repoyu Klonlayın:**
     ```bash
-git clone [https://github.com/AhmetDemiroglu/simple_calculator.git](https://github.com/AhmetDemiroglu/simple_calculator.git)
-    
+    git clone https://github.com/AhmetDemiroglu/simple_calculator.git
+    ```
 2.  **Proje Dizinine Gidin:**
     ```bash
     cd simple_calculator
