@@ -15,7 +15,7 @@ Bu proje, kullanıcıların satır satır sayılar ve temel aritmetik operatörl
 ## Ekran Görüntüsü
 
 Projeden bir ekran görüntüsü:
-![Sonsuz Hesap Makinesi Ekran Görüntüsü](./screenshot.png)
+![](./screenshot.png)
 
 ## Kullanılan Teknolojiler
 
